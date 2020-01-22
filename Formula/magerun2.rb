@@ -1,4 +1,4 @@
-class Magerun < Formula
+class Magerun2 < Formula
   desc "Swiss army knife for Magento developers, sysadmins and devops."
   homepage "http://magerun.net/"
   url "https://files.magerun.net/n98-magerun2-4.0.2.phar"
