@@ -9,7 +9,7 @@ Provides homebrew support for installing some Magento utilities like N98-Magerun
 - `brew install magerun2`
 - `brew install pestle`
 
-Then you can use the utilities simply running `magerun`, `magerun` or `pestle`.
+Then you can use the utilities simply running `magerun`, `magerun2` or `pestle`.
 
 ## Developer
 
