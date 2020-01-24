@@ -1,4 +1,4 @@
-class Extdn_installer < Formula
+class ExtdnInstaller < Formula
   desc "Universal extension installer for Magento 2."
   homepage "https://github.com/extdn/installer-m2"
   url "https://github.com/extdn/installer-m2/releases/download/v1.0.0-beta5/extdn_installer.phar"
