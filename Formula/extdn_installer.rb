@@ -7,7 +7,7 @@ class ExtdnInstaller < Formula
   bottle :unneeded
 
   def install
-    bin.install "extdn_installer.phar" => "pestle"
+    bin.install "extdn_installer.phar" => "extdn_installer"
   end
 
   test do
