@@ -8,7 +8,7 @@ class Pestle < Formula
   bottle :unneeded
 
   def install
-    bin.install "pestle-1.5.2.phar" => "pestle"
+    bin.install "pestle-1-5-2.phar" => "pestle"
   end
 
   test do
