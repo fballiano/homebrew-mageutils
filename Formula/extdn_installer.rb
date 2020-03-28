@@ -1,8 +1,8 @@
 class ExtdnInstaller < Formula
   desc "Universal extension installer for Magento 2."
   homepage "https://github.com/extdn/installer-m2"
-  url "https://github.com/extdn/installer-m2/releases/download/v1.0.0-beta5/extdn_installer.phar"
-  sha256 "bc3c954ceac9f1b2729587ee56b67e1a61eb6cd8182279ceaef3fd2e88ca33fd"
+  url "https://github.com/extdn/installer-m2/releases/download/v1.0.0-beta6/extdn_installer.phar"
+  sha256 "9dc269d30c864a7bffbfaff74a8ba614e24a92dfc9f33d1ce0bae7c02a2f5d5a"
 
   bottle :unneeded
 
